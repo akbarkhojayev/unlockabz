@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.sh text eol=lf
+unlockabz text eol=lf
+*.png binary
+*.zip binary
+*.7z binary

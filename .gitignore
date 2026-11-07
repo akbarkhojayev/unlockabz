@@ -1,0 +1,45 @@
+# Local environments, settings and caches
+.venv/
+.local/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.agents/
+.codex/
+.aws/
+
+# Private inputs and recovered data
+jobs/
+results/
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pdf
+*.cap
+*.pcap
+*.pcapng
+*.hccapx
+*.hc22000
+*.hash
+*.pot
+*.potfile
+*.pem
+*.key
+
+# Generated shortcuts, archives and release bundles
+*.desktop
+*.7z
+*.zip
+*.gz
+dist/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+*~
